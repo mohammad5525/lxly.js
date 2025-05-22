@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/0xpolygon/lxly.js#readme",
   "dependencies": {
-    "@ethereumjs/util": "^9.0.3",
+    "@ethereumjs/util": "^9.1.0",
     "@maticnetwork/lxlyjs": "^2.3.0-beta.2",
     "assert": "^2.1.0",
     "buffer": "^6.0.3",
